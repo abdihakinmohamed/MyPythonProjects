@@ -1,0 +1,10 @@
+Abdihakin
+10th grade
+Abdi
+12
+23
+Abdihakin
+10
+12
+Abdihakin
+& C:/Users/abdix/AppData/Local/Programs/Python/Python314/python.exe c:/Users/abdix/Downloads/MyPythonProjects/calculator______________________________.py
